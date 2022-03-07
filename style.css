@@ -20,6 +20,14 @@ p {
   text-decoration-color: red;
 }
 
+img src="/img/3g.png" {
+  border-radius: 50%;
+}
+
+img src="/img/1g.jpg" {
+  border-radius: 8px;
+}
+
 
 
 
