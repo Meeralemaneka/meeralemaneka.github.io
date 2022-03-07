@@ -5,6 +5,8 @@ body {
 h1 {
   color: white;
   text-align: middle;
+  text-decoration-line: underline;
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
 }
 
 p {
@@ -13,9 +15,6 @@ p {
   font-size: 20px
 }
 
-3g.png {
-  border-radius: 50%;
-}
 
 
 
