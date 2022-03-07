@@ -7,8 +7,7 @@ h1 {
   text-align: center;
   border: 3px solid red;
   text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
-  text-decoration-line: overline;
-  text-decoration-color: red;
+  
   
 }
 
@@ -17,6 +16,8 @@ p {
   text-align: center;
   font-size: 20px
     text-shadow: 0 0 3px #ff0000;
+  text-decoration-line: overline;
+  text-decoration-color: red;
 }
 
 
