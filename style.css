@@ -31,6 +31,11 @@ p {
   text-decoration-color: red;
 }
 
+.center-block {
+  display: block;
+  text-align: center;
+}
+
 row {
   display: flex;
   flex-direction: row;
