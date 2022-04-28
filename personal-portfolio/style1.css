@@ -7,9 +7,11 @@ body {
    text-align: center;
    border: 3px solid red;
    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
-
-
  }
+
+ #center {    
+   text-align: center;  
+ }  
 
  p {
    color: white;
