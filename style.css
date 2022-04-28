@@ -31,6 +31,12 @@ p {
   text-decoration-color: red;
 }
 
+row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
 button {
   background-color: white;
   border: none;
